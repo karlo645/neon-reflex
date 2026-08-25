@@ -9,3 +9,5 @@ The game has a retro-futuristic visual style inspired by classic arcade games an
 Neon Reflex runs directly in a web browser and does not require installation.
 
 All songs come from Pixabay.
+
+*If you happen to encounter any bugs or have any ideas for the game, let me know by reporting an issue!*

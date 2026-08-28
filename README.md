@@ -8,7 +8,7 @@ The game has a retro-futuristic visual style inspired by classic arcade games an
 
 Neon Reflex runs directly in a web browser and does not require installation.
 
-The game is meant to played to be played on a computer, not a phone. Although there are controls for mobile, don't expect the best performance.
+The game is meant to be played on a computer, not a phone. Although there are controls for mobile, don't expect the best performance.
 
 All songs come from Pixabay.
 

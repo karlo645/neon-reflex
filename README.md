@@ -12,4 +12,4 @@ The game is meant to be played on a computer, not a phone. Although there are co
 
 All songs come from Pixabay.
 
-*If you happen to encounter any bugs or have any ideas for the game, let me know by reporting an issue!*
+*If you happen to encounter any bugs or have any ideas, let me know by reporting an issue!*
